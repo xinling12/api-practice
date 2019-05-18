@@ -1,0 +1,28 @@
+{
+  "name": "api-practice",
+  "version": "1.0.0",
+  "description": "This is a repo for api learning Aiming to maintain CRUD",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinling12/api-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinling12/api-practice/issues"
+  },
+  "homepage": "https://github.com/xinling12/api-practice#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
